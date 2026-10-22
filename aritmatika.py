@@ -1,0 +1,13 @@
+a = int(input("angka pertama : "))
+print(a)
+b = int(input("angka kedua : "))
+print(b)
+print("-----------------------")
+print(a,"+",b,"=",a + b)
+print(a,"-",b,"=",a-b)
+print(a,"*",b,"=",a*b)
+print(a,"/",b,"=",a/b)
+
+print(a,"^",b,"=",a ** b)
+print(a,"//",b,"=",a // b)
+print(a,"%",b,"=",a % b)
